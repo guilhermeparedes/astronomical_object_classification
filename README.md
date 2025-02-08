@@ -1,1 +1,1 @@
-# astronomical_object_classification
+# Astronomical Object Classification
