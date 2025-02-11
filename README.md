@@ -2,9 +2,12 @@
 
 ## Modelos: 
 
-- Definição - Modelo : 
+- Definição - Modelo : Random Forest 
 
-- Definição - Modelo : 
+- Definição - Modelo : XGBoost
+
+- Definição - Modelo : SVM (Support Vector Machine)
+
 
 O **objetivo** deste trabalho é realizar a previsão , baseada nas observações anteriores, utilizando como métrica .
 
@@ -28,4 +31,5 @@ O **objetivo** deste trabalho é realizar a previsão , baseada nas observaçõe
 10. Conclusão
 11. Sugestão de outros modelos
 
-Obs.: Dados referentes a url
+
+Obs.: Dados referentes a url:https://www.dropbox.com/scl/fi/0koe7hs2ijasn5655ei7u/projeto6_SDSS17.zip?rlkey=0ga041zw9a1h7ypu7ske2q5z5&e=1&dl=0
