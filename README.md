@@ -6,10 +6,14 @@
 
 - Definição - Modelo : XGBoost
 
-- Definição - Modelo : SVM (Support Vector Machine)
+- Definição - Modelo : SVC (Support Vector Machine Classifier)
+
+- Definição - Modelo : Naive Bayes
+
+- Definição - Modelo : KNN (k-nearest neighbors)
 
 
-O **objetivo** deste trabalho é realizar a previsão , baseada nas observações anteriores, utilizando como métrica .
+O **objetivo** deste trabalho é realizar a previsão , baseada nas observações anteriores, utilizando como métrica accuracy, f1, precision, recall e roc_auc.
 
 ## Dependências
 - ```pandas```: para leitura e manipulação dos dados
