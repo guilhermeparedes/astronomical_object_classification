@@ -8,11 +8,11 @@
 
 - Definição - Modelo : SVC (Support Vector Machine Classifier)
 
-- Definição - Modelo : Naive Bayes
-
 - Definição - Modelo : KNN (k-nearest neighbors)
 
 - Definição - Modelo : LGBM (light...)
+
+- Definição - Modelo : GradientBoosting 
 
 
 O **objetivo** deste projeto é a classificação de objetos celestes em estrelas, galáxias ou quasares utilizando diferentes modelos de
