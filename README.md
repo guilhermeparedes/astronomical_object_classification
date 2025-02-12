@@ -15,7 +15,8 @@
 - Definição - Modelo : LGBM (light...)
 
 
-O **objetivo** deste trabalho é realizar a previsão , baseada nas observações anteriores, utilizando como métrica accuracy, f1, precision, recall e roc_auc.
+O **objetivo** deste projeto é a classificação de objetos celestes em estrelas, galáxias ou quasares utilizando diferentes modelos de
+classificação supervisionados e métricas de avaliação. 
 
 ## Dependências
 - ```pandas```: para leitura e manipulação dos dados
@@ -27,7 +28,6 @@ O **objetivo** deste trabalho é realizar a previsão , baseada nas observaçõe
 ## Estrutura do projeto
 1. Introdução
 2. Contexto do dataset
-  2.1 Por que estes estudos são importantes?  
 3. Dados
 4. Objetivo do estudo 
 5. Importação de bibliotecas
@@ -36,4 +36,4 @@ O **objetivo** deste trabalho é realizar a previsão , baseada nas observaçõe
 8. Proposta de um Modelo Baseline
 9. Proposta de um modelo mais complexo
 10. Conclusão
-11. Sugestão de outros modelos
+12. Sugestão de outros modelos
