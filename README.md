@@ -37,4 +37,3 @@ classificação supervisionados e métricas de avaliação.
 8. Proposta de um Modelo Baseline
 9. Proposta de um modelo mais complexo
 10. Conclusão
-12. Sugestão de outros modelos
