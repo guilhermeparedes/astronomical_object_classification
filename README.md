@@ -29,12 +29,15 @@ classificação supervisionados e métricas de avaliação.
 ## Estrutura do projeto
 1. Introdução
 2. Contexto do dataset
+
    2.1 Por que esses estudos são importantes?
-4. Dados
-5. Objetivo do estudo 
-6. Importação de bibliotecas
-7. Leitura dos dados
-8. Análise descritiva geral
-9. Proposta de um Modelo Baseline
-10. Proposta de um modelo mais complexo
+
+3. Dados
+4. Objetivo do estudo 
+5. Importação de bibliotecas
+6. Coleta e exploração dos dados
+7. Pré-processamento dos dados
+8. Modelos de aprendizado de máquina
+9. Otimização de hiperpâmetros
+10. Avaliação do modelo otimizado
 11. Conclusão
