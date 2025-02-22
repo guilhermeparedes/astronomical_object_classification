@@ -59,4 +59,5 @@ O CatBoost é uma versão do Gradient Boosting desenvolvida pela Yandex, com mel
     - AUC (Area Under the Curve)
   - Treinamento dos modelos
 - **9. Otimização de Hiperparâmetros e Validação Cruzada**
-- **10. Conclusão**
+- **10. Avaliação dos modelos XGBoost e Random Forest otimizados** 
+- **11. Conclusão**
