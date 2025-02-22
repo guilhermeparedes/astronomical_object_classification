@@ -27,17 +27,32 @@ classificação supervisionados e métricas de avaliação.
 - ```sklearn```: para criar, treinar e implementar modelos de aprendizado de máquina
 
 ## Estrutura do projeto
-1. Introdução
-2. Contexto do dataset
+# 1. Introdução
+## 2. Contexto do dataset
+### 2.1 Por que esses estudos são importantes?
+## 3. A variável alvo
+### 3.1 O que são estrelas, galáxias e quasares?
+### 3.2 Os demais atributos físicos
+#### 3.2.1 O que são filtros fotométricos?
+#### 3.2.2 O que é redshift?
+#### 3.2.3 O que são alpha e delta?
+## 4. Objetivo do estudo
+## 5. Importação de bibliotecas e pacotes
+## 6. Coleta e exploração de dados
+## 7. Pré-processamento
+## 8. Aprendizado de máquina
+### 8.1 Modelos de aprendizado de máquina
+#### 8.1.1 Random Forest
+#### 8.1.2 XGBoost
+#### 8.1.3 LightGBM
+#### 8.1.4 CatBoost
+### 8.2 Métricas de avaliação
+#### 8.2.1 Matriz de Confusão
+#### 8.2.2 Accuracy (Acurácia)
+#### 8.2.3 Precision (Precisão)
+#### 8.2.4 Recall (Revocação)
+#### 8.2.5 AUC (Area Under the Curve)
+### 8.3 Treinamento dos modelos
+## 9. Otimização de Hiperparâmetros e Validação Cruzada
+## 10. Conclusão
 
-   2.1 Por que esses estudos são importantes?
-
-3. Dados
-4. Objetivo do estudo 
-5. Importação de bibliotecas
-6. Coleta e exploração dos dados
-7. Pré-processamento dos dados
-8. Modelos de aprendizado de máquina
-9. Otimização de hiperpâmetros
-10. Avaliação do modelo otimizado
-11. Conclusão
