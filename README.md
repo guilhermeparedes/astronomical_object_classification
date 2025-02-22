@@ -1,6 +1,15 @@
 # Classificação de Objetos Astronômicos
 
-## Modelos: 
+##
+
+
+## Objetivo
+
+O **objetivo** deste projeto é a classificação de objetos celestes em estrelas, galáxias ou quasares utilizando diferentes modelos de
+classificação supervisionados e métricas de avaliação. 
+
+
+## Modelos
  
 ### Random Forest
 
@@ -15,9 +24,6 @@ O LightGBM (Light Gradient Boosting Machine) é uma alternativa ao XGBoost, mas 
 ### CatBoost 
 O CatBoost é uma versão do Gradient Boosting desenvolvida pela Yandex, com melhorias no tratamento de variáveis categóricas. Ele usa técnicas como Ordered Boosting, que evita overfitting ao ordenar os dados de forma específica, e permite capturar melhor interdependências entre variáveis sem necessidade de pré-processamento complexo.
 
-
-O **objetivo** deste projeto é a classificação de objetos celestes em estrelas, galáxias ou quasares utilizando diferentes modelos de
-classificação supervisionados e métricas de avaliação. 
 
 ## Dependências
 - ```pandas```: para leitura e manipulação dos dados
