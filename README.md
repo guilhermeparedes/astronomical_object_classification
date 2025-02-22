@@ -1,3 +1,5 @@
+![Imagem do Projeto]([URL_DA_IMAGEM](https://imgs.search.brave.com/gxeYE6kc75TzchcRvWECas_Yf5Qj9O3Mb8Mv3jI8Mlc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubmV3c2NpZW50/aXN0LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wMi8y/MjE1MDQ0OC9TRUlf/MTQ1MzM5NTk0Lmpw/Zw))
+
 # Classificação de Objetos Astronômicos
 
 
