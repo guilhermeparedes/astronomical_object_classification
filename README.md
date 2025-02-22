@@ -1,7 +1,5 @@
 # Classificação de Objetos Astronômicos
 
-##
-
 
 ## Objetivo
 
