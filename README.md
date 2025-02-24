@@ -1,4 +1,4 @@
-# Classificação de Objetos Astronômicos
+[# Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
 ## Objetivo
@@ -87,6 +87,3 @@ classificação supervisionados e métricas de avaliação.
   - Desempenho dos Modelos com Matriz de Confusão
   - Desempenho dos Modelos com ROC e AUC
 - **11. Conclusão**
-
-**Acesso ao [Projeto](https://github.com/guilhermeparedes/astronomical_object_classification)**
-
