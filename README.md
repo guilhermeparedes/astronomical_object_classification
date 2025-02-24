@@ -33,31 +33,64 @@ O CatBoost é uma versão do Gradient Boosting desenvolvida pela Yandex, com mel
 ## Estrutura do projeto
 
 - **1. Introdução**
-- **2. Contexto do dataset**
-  - Por que esses estudos são importantes?
-- **3. A variável alvo**
-  - O que são estrelas, galáxias e quasares?
-  - Os demais atributos físicos
-    - O que são filtros fotométricos?
-    - O que é redshift?
-    - O que são alpha e delta?
-- **4. Objetivo do estudo**
-- **5. Importação de bibliotecas e pacotes**
-- **6. Coleta e exploração de dados**
-- **7. Pré-processamento**
-- **8. Aprendizado de máquina**
-  - Modelos de aprendizado de máquina
+- **2. Motivação e Contexto do DataSet**
+  - Importância do Estudo?
+- **3. Dados**
+  - Atributo alvo: Classe
+    - Classes do Problema: Estrelas, Galáxias e Quasares
+  - Atributos Físicos
+    - Filtros Fotométricos
+    - Redshift
+    - Coordenadas Alpha e Delta
+- **4. Objetivo do Estudo**
+- **5. Importação de Bibliotecas e Pacotes**
+- **6. Análise Exploratória de Dados (EDA)**
+  - Carregamento e Visualização dos Dados
+  - Análise Descritiva
+  - Visualização dos Dados
+    - Distribuição das Classes
+  - Análise de Correlação
+    - Correlação de Pearson
+    - Verificação de Atributos Idênticos
+    - Informação Mútua
+    - Correlação Entre Coordenadas Equatoriais e a Variável Alvo
+    - Correlação Entre Redshift e a Variável Alvo
+  - Identificação de Outliers
+- **7. Pré-processamento dos Dados**
+  - Seleção de Atributos
+  - Transformação dos Dados
+  - Redução de Dimensionalidade
+  - Codificação de Variáveis Categóricas
+  - Divisão dos Dados
+  - Balanceamento dos Dados
+    - Oversampling
+    - Undersampling
+- **8. Aprendizado de Máquina**
+  - Modelos de Aprendizado de Máquina
     - Random Forest
     - XGBoost
     - LightGBM
     - CatBoost
+    - Justificativa da Escolha dos Modelos¶
   - Métricas de avaliação
     - Matriz de Confusão
     - Accuracy (Acurácia)
     - Precision (Precisão)
     - Recall (Revocação)
+    - F1-SCORE
     - AUC (Area Under the Curve)
   - Treinamento dos modelos
-- **9. Otimização de Hiperparâmetros e Validação Cruzada**
-- **10. Avaliação dos modelos XGBoost e Random Forest otimizados** 
+    - Configuração dos Modelos
+    - Validação Cruzada com *Oversampling*
+    - Validação Cruzada com *Undersampling*
+    - Comparação de Desempenho Entre as Técnicas
+- **9. Otimização de Hiperparâmetros**
+  - Configuração dos Hiperparâmetros
+  - Aplicação de Técnica para Otimização
+- **10. Avaliação dos Modelos XGBoost e Random Forest Otimizados**
+  - Aplicação dos Modelos aos Dados de Teste
+  - Desempenho dos Modelos com Métricas Iniciais
+  - Importância dos Atributos
+  - Desempenho dos Modelos com Matriz de Confusão
+  - Desempenho dos Modelos com ROC e AUC
 - **11. Conclusão**
