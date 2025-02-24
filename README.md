@@ -88,5 +88,6 @@ classificação supervisionados e métricas de avaliação.
   - Desempenho dos Modelos com ROC e AUC
 - **11. Conclusão**
 
-**Acesso oa ![Notebook](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/Astronomical_object_classification.ipynb)
-**Acesso aos ![Dados do Sloan Digital Sky Survey (SDSS)](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/star_classification.csv)
+**Acesso oa [Notebook](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/Astronomical_object_classification.ipynb)**
+
+**Acesso aos [Dados do Sloan Digital Sky Survey (SDSS)](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/star_classification.csv)**
