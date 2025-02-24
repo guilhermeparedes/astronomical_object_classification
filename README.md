@@ -1,7 +1,9 @@
 # [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
-![galaxy](https://github.com/user-attachments/assets/0cf9f68c-bdd6-4b10-9dca-a44b23b97951)
+<div style="text-align: center;">
+<img src="[https://imgs.search.brave.com/-hqie94eaXZazDLbGljPZx5InDwUruJRguqtwVtZyQQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oZWxp/b3MtaS5tYXNoYWJs/ZS5jb20vaW1hZ2Vy/eS9hcnRpY2xlcy8w/NUZTQk9RcjVKRXVU/SncwNUhkbGpMNi9p/bWFnZXMtMS5maWxs/LnNpemVfMjAwMHgy/MDAwLnYxNzE2MzE0/NDc3LmpwZw](https://github.com/user-attachments/assets/819c33dd-c80b-4011-ac00-ba4398ed0d4c)" alt="star" width="400"/>
+</div>
 
 ## Objetivo
 
