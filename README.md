@@ -1,7 +1,7 @@
 # [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
-![galaxy](https://github.com/user-attachments/assets/f56ff8e3-4769-46e7-9443-7c220114a803)
+<img src="https://github.com/user-attachments/assets/f56ff8e3-4769-46e7-9443-7c220114a803" width="400">
 
 ## Objetivo
 
