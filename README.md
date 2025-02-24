@@ -1,5 +1,7 @@
-# Classificação de Objetos Astronômicos
+# [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
+
+<img src="https://github.com/user-attachments/assets/f56ff8e3-4769-46e7-9443-7c220114a803" width="1100" height="300">
 
 ## Objetivo
 
@@ -87,6 +89,3 @@ classificação supervisionados e métricas de avaliação.
   - Desempenho dos Modelos com Matriz de Confusão
   - Desempenho dos Modelos com ROC e AUC
 - **11. Conclusão**
-
-**Acesso oa ![Notebook](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/Astronomical_object_classification.ipynb)
-**Acesso aos ![Dados do Sloan Digital Sky Survey (SDSS)](https://github.com/guilhermeparedes/astronomical_object_classification/blob/main/star_classification.csv)
