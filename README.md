@@ -37,7 +37,7 @@ classificação supervisionados e métricas de avaliação.
 - **4. Objetivo do Estudo**
 - **5. Importação de Bibliotecas e Pacotes**
 - **6. Análise Exploratória de Dados (EDA)**
-  - Carregamento e Visualização dos Dados
+  - Carregamento dos Dados
   - Análise Descritiva
   - Visualização dos Dados
     - Distribuição das Classes
