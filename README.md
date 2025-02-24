@@ -1,9 +1,7 @@
 # [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
-<div style="text-align: center;">
-<img src="galaxy.jpg" alt="star" width="400"/>
-</div>
+![galaxy](https://github.com/user-attachments/assets/f56ff8e3-4769-46e7-9443-7c220114a803)
 
 ## Objetivo
 
