@@ -1,4 +1,4 @@
-[# Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
+# [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
 ## Objetivo
