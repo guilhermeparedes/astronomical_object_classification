@@ -1,6 +1,8 @@
 # [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
 
 
+![galaxy](https://github.com/user-attachments/assets/0cf9f68c-bdd6-4b10-9dca-a44b23b97951)
+
 ## Objetivo
 
 O **objetivo** deste projeto é a classificação de objetos celestes em estrelas, galáxias ou quasares utilizando diferentes modelos de
