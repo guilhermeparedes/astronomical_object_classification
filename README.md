@@ -7,13 +7,13 @@ classificação supervisionados e métricas de avaliação.
 
 ## Modelos
  
-### -  Random Forest
+-  Random Forest
 
-### - XGBoost
+- XGBoost
 
-### - LGBM 
+- LGBM
 
-### CatBoost 
+- CatBoost 
 
 ## Dependências
 - ```pandas```: para leitura e manipulação dos dados
