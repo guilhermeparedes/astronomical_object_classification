@@ -7,11 +7,11 @@ classificação supervisionados e métricas de avaliação.
 
 ## Modelos
  
-### Random Forest
+### -  Random Forest
 
-### XGBoost
+### - XGBoost
 
-### LGBM 
+### - LGBM 
 
 ### CatBoost 
 
