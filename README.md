@@ -11,7 +11,7 @@ classificação supervisionados e métricas de avaliação.
 
 - XGBoost
 
-- LGBM
+- LightGBM
 
 - CatBoost 
 
