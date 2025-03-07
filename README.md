@@ -1,7 +1,4 @@
-# [Classificação de Objetos Astronômicos](https://github.com/guilhermeparedes/astronomical_object_classification)
-
-
-<img src="https://github.com/user-attachments/assets/f56ff8e3-4769-46e7-9443-7c220114a803" width="1100" height="300">
+# Classificação de Objetos Astronômicos
 
 ## Objetivo
 
@@ -10,13 +7,13 @@ classificação supervisionados e métricas de avaliação.
 
 ## Modelos
  
-### Random Forest
+-  Random Forest
 
-### XGBoost
+- XGBoost
 
-### LGBM 
+- LightGBM
 
-### CatBoost 
+- CatBoost 
 
 ## Dependências
 - ```pandas```: para leitura e manipulação dos dados
@@ -40,7 +37,7 @@ classificação supervisionados e métricas de avaliação.
 - **4. Objetivo do Estudo**
 - **5. Importação de Bibliotecas e Pacotes**
 - **6. Análise Exploratória de Dados (EDA)**
-  - Carregamento e Visualização dos Dados
+  - Carregamento dos Dados
   - Análise Descritiva
   - Visualização dos Dados
     - Distribuição das Classes
